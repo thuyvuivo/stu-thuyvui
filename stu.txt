@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Hello STUnited I am new member
 my name is thuy vui,
 my age is 22.
-=======
 hello world
 Hello STUnited My name is thuyvuivo
->>>>>>> thuyvui-demo2
